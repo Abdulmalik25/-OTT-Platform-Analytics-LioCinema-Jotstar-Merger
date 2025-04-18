@@ -29,7 +29,8 @@ The analysis is built on three core tables from both platforms:
 ## 🔍 Key Analyses & Dashboards
 
 ### 1. **Content Library Analysis**
-![https://drive.google.com/file/d/11jo1S6LhaI7r2ZlzUyVa57lBWSgPzGyR/view?usp=drive_link](#)
+![ezgif-7f1c9659d35d35](https://github.com/user-attachments/assets/42438536-725f-4652-be56-fc4581371cec)
+
 
 **Key Insights:**
 - Jotstar dominates English content; LioCinema leads in regional genres like Family and Crime.
@@ -39,7 +40,8 @@ The analysis is built on three core tables from both platforms:
 ---
 
 ### 2. **Subscriber Insights**
-![Subscriber Insights Dashboard](#)
+![Subscriber_insights](https://github.com/user-attachments/assets/85e2369b-0ea5-40df-9e34-5f36068e6dc9)
+
 
 **Key Insights:**
 - Jotstar has a higher premium user base from Tier 1 cities, while LioCinema thrives in Tier 3.
@@ -49,7 +51,8 @@ The analysis is built on three core tables from both platforms:
 ---
 
 ### 3. **Subscriber Inactivity Patterns**
-![Inactivity Dashboard](#)
+![inactivity](https://github.com/user-attachments/assets/d6900a9a-e7d6-497e-8445-576e78afd408)
+
 
 **Key Insights:**
 - LioCinema’s inactivity rate (45%) is 3x higher than Jotstar’s (15%).
@@ -59,7 +62,8 @@ The analysis is built on three core tables from both platforms:
 ---
 
 ### 4. **Upgrade Patterns**
-![Upgrade Patterns Dashboard](#)
+![upgrade](https://github.com/user-attachments/assets/aa6f0339-1c28-4a61-9196-4f0203375e36)
+
 
 **Key Insights:**
 - Jotstar has a 9% upgrade rate (vs. 2.2% for LioCinema), led by VIP → Premium transitions.
@@ -69,7 +73,8 @@ The analysis is built on three core tables from both platforms:
 ---
 
 ### 5. **Downgrade Patterns**
-![Downgrade Patterns Dashboard](#)
+![downgrade](https://github.com/user-attachments/assets/08cd69b6-3d7b-40b4-ab3e-40a00ba3c9e3)
+
 
 **Key Insights:**
 - Jotstar retains more premium users than LioCinema (6% vs. 10% downgrade rate).
@@ -79,7 +84,8 @@ The analysis is built on three core tables from both platforms:
 ---
 
 ### 6. **Revenue Analysis**
-![Revenue Analysis Dashboard](#)
+![Revenue](https://github.com/user-attachments/assets/84f8cb0c-e02a-45ee-9ed4-384d9ae5e5c1)
+
 
 **Key Insights:**
 - Jotstar generates ₹1,040/user compared to LioCinema’s ₹142/user.
