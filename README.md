@@ -4,7 +4,7 @@ Welcome to the future of digital entertainment in India!
 
 This project presents a strategic, data-driven view of a high-stakes merger between **LioCinema**—India’s regional content leader—and **Jotstar**, a premium OTT platform with strong urban and English-speaking audiences. Using Power BI, I’ve performed detailed analyses on content libraries, subscriber behavior, user engagement, revenue trends, and subscription patterns, followed by actionable recommendations to steer the platform toward scalable growth.
 
-> 🔗 **Live Power BI Report:** [https://app.powerbi.com/groups/me/reports/b60093f9-63f2-4818-aeec-1bee60369bea/0d846615872878e1ad9f?experience=power-bi&clientSideAuth=0](#) *(replace with your Power BI link)*
+> 🔗 **Live Power BI Report:** [https://app.powerbi.com/groups/me/reports/b60093f9-63f2-4818-aeec-1bee60369bea/0d846615872878e1ad9f?experience=power-bi&clientSideAuth=0](#)
 
 ---
 
